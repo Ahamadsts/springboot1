@@ -16,7 +16,7 @@ import com.example.demo.serviceImpl.SubjectServiceImpl;
 @RestController
 public class SubjectController {
 
-	
+	//this is subject controller
 	@Autowired 
 	SubjectServiceImpl subjectserviceimpl;
 	
